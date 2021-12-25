@@ -30,6 +30,6 @@
 
 [<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter Logo" title="Twitter" height="25" />](https://twitter.com/the_tareqmahmud)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tareqmahmud&theme=default&show_icons=true" alt="Profile Stats">
+<img align="left" width="59%" src="https://github-readme-stats.vercel.app/api?username=tareqmahmud&theme=default&show_icons=true" alt="Profile Stats">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqmahmud&hide=css&langs_count=10&theme=default" alt="Languages">
+<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqmahmud&hide=css&langs_count=10&theme=default" alt="Languages">
