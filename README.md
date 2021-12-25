@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **Web Performance & Design Pattern**
 
-<!-- - 👯 I’m looking to collaborate on **Open-source react and react native projects** ->
+<!-- - 👯 I’m looking to collaborate on **Open-source react and react native projects** -->
 
 - 💬 Ask me about **JavaScript Ecosystem**
 
