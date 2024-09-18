@@ -4,11 +4,11 @@
 
 - 🔭 Currently working at [RedQ Inc](https://redq.io/)
 
-- 🌱 Currently learning **Web Performance & Design Pattern**
+<!-- - 🌱 Currently learning **Web Performance & Design Pattern** -->
 
 <!-- - 👯 I’m looking to collaborate on **Open-source react and react native projects** -->
 
-- 💬 Ask me about **JavaScript Ecosystem**
+- 💬 Ask me about **JavaScript or PHP Ecosystem**
 
 - 📫 How to reach me [@the_tareqmahmud](https://www.twitter.com/the_tareqmahmud)
 
