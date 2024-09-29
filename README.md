@@ -25,7 +25,7 @@
 ## 🛠 Technologies and tools
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+    <img width="50" src="https://stackoverflow.com/users/2158023/tareqmahmud" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
