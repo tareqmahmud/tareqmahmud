@@ -23,20 +23,7 @@
 </p>
 
 ## 🛠 Technologies and tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img width="50" height="50" src="https://camo.githubusercontent.com/3117b872cb780f83d2f1dbe91e97d7cb8955f0110a73cd43baba60eaa21db890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537461636b2532304f766572666c6f772d3238324333343f6c6f676f3d737461636b6f766572666c6f77266c6f676f436f6c6f723d464537413136" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img width="50" height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-  </a>
-</p>
+[<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" width="50" height="50"/>](https://aws.amazon.com) [<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" width="50" height="50"/>](https://aws.amazon.com) [<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" width="50" height="50"/>](https://aws.amazon.com)
 
 
 ## 🤔 Problem Solving
